@@ -1,6 +1,8 @@
 # Wondershare Filmora
 Wondershare Filmora (formerly known as Wondershare Video Editor) is a program dedicated to audio and video editing integrating functions and tools with which you can modify almost all the settings of your files, from volume and speed to brightness, contrast and saturation. The tool has a similar interface to the powerful Adobe Premiere, but with easier and more intuitive operation, allowing among many other options to record directly from the PC voice or video to import and edit it as voice-over.
 
+[![745684584678](https://github.com/user-attachments/assets/9f5cbab4-26b5-447b-8b88-341e255820af)](https://y.gy/wondershare-filmora)
+
 ## Let's talk about Wondershare Filmora.
 
 Wondershare Filmora (often just called Filmora) is a popular, user-friendly video editing software developed by Wondershare. It's designed to make video editing accessible to a wide range of users, from beginners and casual creators to semi-professionals, by balancing powerful features with an intuitive interface.
